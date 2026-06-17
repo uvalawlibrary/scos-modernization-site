@@ -1,0 +1,28 @@
+/* Light editorial customisation for the SCOS public site.
+ * The default Starlight palette is fine; this file is a placeholder
+ * for any project-specific typography or colour adjustments we add
+ * once we have brand decisions from UVA Law Library. */
+
+:root {
+  --sl-font-system:
+    'Iowan Old Style', 'Palatino Linotype', 'Hoefler Text', Cambria, Georgia,
+    serif;
+  --sl-font: var(--sl-font-system);
+}
+
+/* Slightly looser body text for long-form prose pages */
+.sl-markdown-content p {
+  line-height: 1.65;
+}
+
+/* Tighter, more bookish heading spacing */
+.sl-markdown-content h1,
+.sl-markdown-content h2,
+.sl-markdown-content h3 {
+  letter-spacing: -0.01em;
+}
+
+/* Hero on splash pages: more breathing room */
+.hero {
+  padding: 3rem 0;
+}

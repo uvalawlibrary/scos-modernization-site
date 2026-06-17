@@ -1,0 +1,22 @@
+{
+  "name": "scos-modernization-site",
+  "type": "module",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Public-facing site for the Scottish Court of Session Papers modernisation project at the University of Virginia School of Law Library.",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "engines": {
+    "node": ">=18.17.1"
+  },
+  "dependencies": {
+    "@astrojs/starlight": "^0.40.0",
+    "astro": "^6.4.8",
+    "sharp": "^0.35.1"
+  }
+}
