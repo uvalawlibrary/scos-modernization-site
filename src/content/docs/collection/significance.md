@@ -1,156 +1,138 @@
 ---
 title: Why the Session Papers Matter
-description: The scholarly framing — drawing on Ambuske, Flaherty & Moulds, "The Scottish Session Papers Project," Scottish Archives 24 (2018), 26–42.
+description: The Scottish Court of Session Papers as a record of hidden histories of early America and the British Atlantic world.
 ---
 
-The most thorough recent framing of the Scottish Court of Session Papers
-as a scholarly resource appears in:
+The published scholarly framing of the corpus's significance is in:
 
-> **Ambuske, Flaherty, and Moulds**, "The Scottish Session Papers
-> Project: An Update," *Scottish Archives* 24 (2018), 26–42.
+> Ambuske, Jim, Randall Flaherty, and Loren S. Moulds. "Recovering
+> Hidden Histories of Early America and the British Atlantic World with
+> the Scottish Court of Session Digital Archive Project." *Scottish
+> Archives* 24 (2018), 26–42.
 
-The piece appeared at the moment the present generation of work on the
-UVA collection began. It is the right place to start any conversation
-about the corpus's significance, and the framing it offers anchors this
-project's view of why the modernisation work described here matters.
+The article is the right place to begin any serious encounter with the
+corpus. The paragraphs below draw on it directly, paraphrasing where
+appropriate and quoting where the article's own language best carries
+the point.
 
-*The text on this page draws on the article. Direct quotations from it
-appear where they best serve the reader; full attribution is on
-[Citation](/about/#citation).*
+## A court of papers
 
-## A corpus that records argument, not summary
+The Court of Session — Scotland's supreme civil court — developed in
+the eighteenth century a procedural practice in which substantive
+argument was conducted overwhelmingly through *printed* pleadings
+rather than oral submission. The Court mandated print in **1710**, *"for
+the speedier Dispatch of Processes"* that came before it. Beginning in
+that year, advocates produced Memorials, Informations, Answers,
+Petitions, and Replies in printed form for the use of the Lords of
+Session, opposing counsel, the Faculty of Advocates Library, and law
+professors at the University of Edinburgh.
 
-Session Papers preserve something that almost no other source from
-eighteenth-century Scotland preserves: **the substantive arguments of
-the parties to a case, in the form they were actually put before the
-court.**
+The advocate James Boswell understood the consequence as well as
+anyone. Watching a fellow advocate plead a wage dispute in the Inner
+House one morning in 1776, having only just stopped drinking strong
+rum punch a few hours earlier, Boswell observed that almost no one was
+listening to the oral argument. He recorded the lesson in his journal:
 
-This is not a small distinction. Reported decisions — Morison's
-*Dictionary of Decisions*, Brown's *Supplement*, the later Faculty
-Decisions and Session Cases — record what the court decided and
-summarise the reasoning, often briefly. They are an indispensable
-reference for legal historians but they are, by their nature, a
-reporter's distillation.
+> *"Ours is a court of papers... We are never seriously engaged but when
+> we write."*
 
-Session Papers are different. A Memorial is the case as counsel chose to
-put it. An Information is the case as it was argued to the Inner House.
-A Decreet is the court's written disposition. Read together, the papers
-of a single case let a scholar reconstruct not just the outcome but the
-contested terrain — which facts were in dispute, which authorities were
-cited, which arguments survived contradictory pleadings, which fell
-away.
+The judges did not issue written opinions; they delivered judgements
+orally and left the printed record to advocates, clerks, and the
+published digests that came later. What survives, as a consequence, is
+a body of material in which the **substantive arguments of the parties**
+— the case as counsel chose to put it — are preserved in extraordinary
+detail. Reported decisions, in Morison's *Dictionary of Decisions* and
+its successors, record what the court decided. The Session Papers
+record what the court was *asked* to decide, and how.
 
-## A corpus that records lives
+## Hidden histories
 
-Session Papers also record, in remarkable detail, the lives of the
-people involved in the cases. Parties are identified by name, residence,
-and occupation. Counsel are named in nearly every paper. Judges are
-named in any document arising from a hearing. Witnesses are named in
-the procedural papers that lead to and follow from proof. Where a case
-turned on a written deed, the deed's witnesses and grantees appear.
-Where a case turned on testimony, the deponents do. Where a case
-involved a corporate or institutional defender — the Magistrates of
-Edinburgh, a kirk session, a guild incorporation — that body's
-officeholders typically appear by name as well.
+The article's central argument is that Session Papers contain *"hidden
+histories of women and men, both ordinary and powerful, who navigated
+the contested spaces of the British Empire in the eighteenth and
+nineteenth centuries."*
 
-For a social historian, this is an extraordinary kind of evidence. A
-single case can generate dozens of identified individuals; the corpus
-as a whole contains tens of thousands.
+These are not legal histories alone. They are histories of:
 
-## A corpus that crosses the Atlantic
+> *"the cultural, political and imperial complexity in and through which
+> Scots, Americans, enslaved Africans, Englishmen, Indians, traitors,
+> war heroes, authors, merchants and tenant farmers lived."*
 
-Eighteenth-century Scotland was not insular. Scottish merchants traded
-in the Caribbean and the Chesapeake; Scottish landowners held property
-the management of which involved transatlantic correspondence; Scottish
-emigrants and their descendants returned to the courts in Edinburgh to
-litigate questions of inheritance, debt, and standing. The Session
-Papers reflect all of this. Cases turning on tobacco shipments from
-Maryland, sugar plantation factorage in Jamaica, the estates of
-Scotsmen who died in India or America, the marriage settlements of
-heiresses whose property crossed the ocean — these are not unusual
-features of the corpus. They are recurring ones.
+Despite the Court's seat in Edinburgh, the cases it heard ran across
+vast distances. As the article puts it, the digitisation work makes it
+possible to *"reintegrate the spaces of the British Empire — Great
+Britain, North America, the Caribbean, western Africa and India — as
+they would have been understood and experienced in the eighteenth and
+nineteenth centuries."*
 
-A corpus that records both the procedural law and the transatlantic
-mercantile context of eighteenth-century Scotland is, almost by
-definition, a corpus of immense value to scholars of the British
-Atlantic world more broadly — and to anyone working on the
-**Enlightenment, the American Revolution, slavery and freedom, the
-development of transatlantic law, and the social history of property,
-family, and standing in the long eighteenth century**.
+## A corpus whose traditional cataloging hides as much as it reveals
 
-The Virginia team's existing public work surfaces some of this through
-curated entry points — including thematic explorations of **Slavery
-and Freedom** and **Women and the Law** — that draw out particular
-strands of the corpus's evidence for non-specialist as well as
-scholarly audiences.
+The article makes a methodological argument as well as a substantive
+one. Session Papers have traditionally been indexed in the way the
+legal profession needed them — by case name, by pursuer and defender,
+by area of law. The published digests of the eighteenth and nineteenth
+centuries (Kames, Morison, Halkerston, the Faculty Decisions) and the
+contemporary BAILII Historic Scottish Law Reports consolidate this
+tradition. They serve legal scholarship well.
 
-## A corpus whose silences matter
+For other kinds of scholarship, the article argues, *"these limited
+taxonomies obscure more than they reveal."* Categorisation by case
+name and legal subject puts the names of the parties forward and
+leaves the witnesses, the dependants, the named tenants, the enslaved
+people, and the merchant correspondents inside the documents themselves
+— effectively invisible to a researcher who does not already know
+which case to consult. Unreported cases, *"including the rich
+biographical and historical information they contain, effectively
+remain undiscoverable."*
 
-The combination of cross-institutional dispersal, partial cataloging,
-and the difficulty of full-text access has had a particular
-consequence: the lives most easily recovered from the corpus today
-are those of **the social and economic elites** whose names appear in
-case titles, in printed authorities, and in the standard reference
-works. The lives more difficult to recover are those of the
-**witnesses, dependants, servants, tenants, and enslaved people**
-whose names appear inside the procedural papers but who do not appear
-in any index that a researcher can search.
+The digital infrastructure described elsewhere on this site is built
+to address that. The principle is to surface the corpus's full record
+of who appeared, where they came from, and what they did — regardless
+of whether the case made it into the printed reports.
 
-This is the classic shape of an archive silence. It is precisely the
-kind of silence that the technological landscape described elsewhere
-on this site exists to address: making the full text of every
-procedural paper searchable, every named individual findable, every
-named place mappable, every cross-reference between documents
-followable. The methodological commitment is to surface the corpus's
-full record of who appeared, regardless of whether their appearance
-made it into the conventional reference works.
+## What a single case can reveal
 
-## A corpus that has been hard to use
+The article centres a sustained example: *Duncan v. Maclintock and
+Smith* (c.1778) — an unreported and seemingly unremarkable dispute
+between Scottish merchants over an unpaid wheat shipment from Virginia.
+Read against its commercial setting, the case opens up:
 
-For all of that, the Session Papers have remained relatively underused
-through the second half of the twentieth century and into the
-twenty-first. The reasons are practical:
+- The Glaswegian merchant networks that aggressively expanded into the
+  Chesapeake tobacco trade in the years during and after the Seven
+  Years' War
+- The transatlantic correspondence that bound Scottish firms to
+  colonial factors
+- The Court's accessibility to British subjects and American citizens
+  alike as a forum for settling commercial disputes that crossed
+  national and imperial lines
 
-- The papers are physically distributed across several institutions on
-  two continents
-- Digital access has been partial, platform-dependent, and not always
-  current
-- The materials are unindexed at the level of full text
-- The cross-references between papers within a single case have been
-  hard to navigate at scale
-- The cross-references between cases — repeat counsel, repeat parties,
-  related litigation — have been largely invisible to a researcher who
-  does not already know what to look for
+But the article's reading goes further. The Virginia merchant Charles
+Duncan, who appears in the dispute as one of the two consignees of the
+wheat, turns out to have been *"a provincial Scot who used the empire
+to his advantage"*: born in the Parish of Strathblane around 1739,
+immigrated to Virginia, settled near Petersburg in Chesterfield County
+as a tobacco merchant, owned a slave plantation called *Roslin*, and
+died in 1808 leaving a will that **named seventeen enslaved people by
+name**, including eight children, and that freed a mixed-race woman
+named Shatlee along with her daughter Jean.
 
-This is not for lack of interest. It is for lack of infrastructure.
-Producing that infrastructure is what this project exists to do.
+A wheat-shipment dispute, in other words, is a window into Scottish
+emigration, the operation of the Glasgow–Chesapeake trade, slavery in
+post-Revolution Virginia, and the lives of named enslaved people whose
+existence would otherwise be invisible in any standard reference work
+on the Court of Session.
 
-## Why now
+The article's conclusion, which states this principle directly:
 
-Three developments make the present moment the right one to attempt a
-serious modernisation of access to the Session Papers:
+> *"Recasting Session Papers as reservoirs of non-legal historical
+> knowledge through digital and interdisciplinary approaches gives them
+> new scholarly value in the 21st century."*
 
-1. **Eight years of expert cataloging at the University of Virginia** —
-   beginning in 2018 — have produced rich, structured metadata for
-   thousands of individual papers and the cases they belong to. That
-   work is the foundation any computational approach to the corpus must
-   build on; it does not need to be redone, and the AI methods now
-   coming to maturity can be evaluated against it as ground truth.
-2. **A generation of practical tools** for handling historical print at
-   scale — vision-language models capable of reading 18th-century
-   typography, automated layout analysis, IIIF-native viewers — has
-   reached the point where serious work on a corpus of this size is
-   feasible at a fraction of historical cost.
-3. **Cross-institutional partnership opportunities** are open. The
-   University of Edinburgh is reconsidering its long-term hosting
-   arrangements for Session Papers content; the conversation about what
-   comes next is happening now, and a coordinated cross-Atlantic
-   response is preferable to either institution acting alone.
-
-The rest of this site describes what the project is doing about it.
+That is the work the rest of this site describes.
 
 ## Reference
 
-Ambuske, Jim, Patrick Flaherty, and Loren S. Moulds. "The Scottish
-Session Papers Project: An Update." *Scottish Archives* 24 (2018),
-26–42.
+Ambuske, Jim, Randall Flaherty, and Loren S. Moulds. "Recovering Hidden
+Histories of Early America and the British Atlantic World with the
+Scottish Court of Session Digital Archive Project." *Scottish Archives*
+24 (2018), 26–42.

@@ -14,11 +14,25 @@ continuing.
 ### University of Virginia School of Law Library
 
 UVA Law holds the **largest collection of Session Papers outside the
-United Kingdom**: roughly **3,200 cases**, anchored by the Skene
-collection assembled and developed by W. Hamilton Bryson and his
-predecessors over the course of decades. The collection is housed in
-Special Collections, organised by box and shelfmark, and substantially
-described.
+United Kingdom**: **58 linear feet** of materials, encompassing
+approximately **3,200 cases** and roughly **10,000 individual
+bibliographic records**, dating from **1757 to 1834**. The collection
+is housed in Special Collections, organised by box and shelfmark.
+
+The collection is known as the **Skene Collection**. Andrew Skene
+(1784–1835) was a Scottish advocate who briefly served as Solicitor
+General for Scotland under Lord Melbourne. He died unmarried and
+without heirs in early 1835 from what the contemporary press
+described as a "brain fever," and his library — including his Session
+Papers — was sold at auction in Edinburgh on 16 May 1835 by the
+auctioneer Charles B. Tait. The advocate **William Craig (Lord
+Craig)** appears to have assembled the original nucleus of the
+collection in the late eighteenth century; Skene acquired it after
+Craig's death in 1813 and added cases from his own legal practice. The
+papers eventually passed to the Society of Advocates Library in
+Aberdeen, were sold by that library in the second half of the
+twentieth century, and were acquired by the UVA Law Library from a
+San Francisco rare book dealer in 1987.
 
 Approximately **38,500 page images** from the UVA collection have been
 digitised. Approximately **2,400 case-document records** are described

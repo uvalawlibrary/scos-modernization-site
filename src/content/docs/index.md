@@ -1,11 +1,11 @@
 ---
 title: The Scottish Court of Session Papers
-description: A cross-Atlantic archive of 18th-century Scottish law, modernised for scholarship at scale.
+description: Recovering hidden histories of early America and the British Atlantic world from one of the great underused archives of the long eighteenth century.
 template: splash
 hero:
   tagline: |
-    Over three thousand cases. Two continents. Eight years of expert cataloging.
-    A second generation of tools designed to make the whole corpus speak.
+    Recovering hidden histories of early America and the British Atlantic world
+    from one of the great underused archives of the long eighteenth century.
   actions:
     - text: The Collection
       link: /collection/
@@ -31,17 +31,25 @@ holding institutions, the surviving corpus runs to **approximately
 250,000 documents and several million pages**.
 
 The University of Virginia Law Library holds the largest collection of
-these Session Papers outside the United Kingdom — roughly **3,200 cases**
-from the Skene collection, assembled by W. Hamilton Bryson and his
-predecessors over the course of decades. The University of Edinburgh
-holds the largest single share of the surviving corpus, alongside the
-Faculty of Advocates, the Signet Library, and the National Records of
-Scotland — roughly **4,500 bound volumes** across the three Edinburgh
-libraries.
+these Session Papers outside the United Kingdom: **58 linear feet** of
+material from the Skene Collection, encompassing roughly **3,200
+cases** dating from 1757 to 1834. The University of Edinburgh holds
+the largest single share of the surviving corpus, alongside the Faculty
+of Advocates, the Signet Library, and the National Records of Scotland —
+roughly **4,500 bound volumes** across the three Edinburgh libraries.
+
+Despite the Court's seat in Edinburgh, the cases it heard ran across
+vast distances. The corpus reintegrates the spaces of the British
+Empire as they would have been understood and experienced in the
+eighteenth and nineteenth centuries: **Great Britain, North America,
+the Caribbean, western Africa, and India**.
 
 For most of the corpus's modern history, these papers have been a
 specialist resource — accessible to in-person researchers but largely
-absent from the searchable, citable, networked scholarly record.
+absent from the searchable, citable, networked scholarly record. The
+hidden histories they contain — of women and men, ordinary and
+powerful, who navigated the contested spaces of the British Empire —
+have remained correspondingly hidden.
 
 That is changing.
 

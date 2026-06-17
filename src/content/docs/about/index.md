@@ -83,9 +83,10 @@ the lineage.
 The most thorough recent published framing of the corpus's
 scholarly significance appears in:
 
-> Ambuske, Jim, Patrick Flaherty, and Loren S. Moulds. "The
-> Scottish Session Papers Project: An Update." *Scottish Archives*
-> 24 (2018), 26–42.
+> Ambuske, Jim, Randall Flaherty, and Loren S. Moulds. "Recovering
+> Hidden Histories of Early America and the British Atlantic World
+> with the Scottish Court of Session Digital Archive Project."
+> *Scottish Archives* 24 (2018), 26–42.
 
 ## Citation
 

@@ -63,9 +63,11 @@ deliberate strategy:
   Parties, counsel, judges, document types, dates, archival
   provenance — all surfaced and searchable.
 - **Curated entry points**: alongside item-level browse and search, the
-  site offers thematic explorations — including **Slavery and
-  Freedom** and **Women and the Law** — that give non-specialist
-  audiences ways into the corpus.
+  site offers thematic explorations — including **Scottish Virginia**
+  and **Legacies of the Jacobite Rebellion**, as described in the
+  Ambuske, Flaherty & Moulds article — that draw out particular
+  strands of the corpus's evidence for non-specialist as well as
+  scholarly audiences.
 - **Cross-institutional image hosting**: the Virginia team's strategy
   has long included sending digital surrogates of the UVA collection
   "home" to the University of Edinburgh's Luna image platform for

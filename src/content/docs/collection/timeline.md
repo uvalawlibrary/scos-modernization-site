@@ -1,14 +1,43 @@
 ---
 title: The Historical Period
-description: 1757–1834 and the procedural world of the Session Papers.
+description: The procedural world of the Court of Session and the years that produced the bulk of the surviving Session Papers.
 ---
 
-The surviving Session Papers cover the period **1710 to 1850**, with
-the bulk of the corpus clustering between roughly 1750 and 1830 — the
-decades during which the Court of Session's procedural practice
-produced printed pleadings in volume, and during which the surviving
-copies tended to be preserved by participating counsel, agents, and
-their institutional successors.
+The surviving Session Papers cover the long eighteenth century into
+the early Victorian period. The UVA Law Library's **Skene Collection
+specifically dates from 1757 to 1834**; the broader surviving corpus
+held across all institutions extends earlier and later than that range.
+The bulk of the material was produced and preserved in the decades when
+the Court of Session's procedural practice depended on **printed**
+pleadings.
+
+## A court of papers
+
+The Court of Session mandated print as the preferred form for
+substantive pleadings in an Act of Sederunt of **19 December 1710**,
+*"for the speedier Dispatch of Processes."* From that point forward,
+Edinburgh printers — David Willison of Craig's Close on High Street
+was one of the more prominent — produced multiple copies of each
+Memorial, Information, Petition, and Answer, distributing them to the
+Lords of Session, the opposing counsel, the Faculty of Advocates
+Library, and the law professors at the University of Edinburgh.
+
+The volume was substantial. The former Keeper of the Faculty of
+Advocates Library, Angus Stewart, has noted that the six session months
+of **1789** produced *24,930 quarto pages* in the Inner House alone.
+
+The advocate James Boswell, whose 1776 journal records a morning of
+court attendance after drinking strong rum punch into the small hours,
+left the most evocative description of what the Court's reliance on
+the printed word meant in practice. Watching opposing counsel deliver
+oral arguments to nearly empty benches, Boswell observed:
+
+> *"Ours is a court of papers... We are never seriously engaged but
+> when we write."*
+
+This is what makes the corpus the kind of source it is: the substantive
+arguments survive in their authored form, set in type, in numbers and
+detail unmatched by other Anglo-American court archives of the period.
 
 ## What the procedural world looked like
 

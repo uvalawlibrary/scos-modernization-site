@@ -21,10 +21,10 @@ A scholar arriving at scos.law today can:
 - **Follow cross-references between procedural papers within the same
   case** — moving from a Petition to its Answers, from a Memorial to
   the Information that built on it
-- **Explore curated thematic entry points** — **Slavery and Freedom**,
-  **Women and the Law**, and others — designed to bring particular
-  strands of the corpus's evidence to non-specialist as well as
-  scholarly audiences
+- **Explore curated thematic entry points** — **Scottish Virginia**,
+  **Legacies of the Jacobite Rebellion**, and others — designed to
+  draw out particular strands of the corpus's evidence for
+  non-specialist and scholarly audiences alike
 - **Cross-reference to canonical citations** for the cases that appear
   in Morison's *Dictionary of Decisions* and other standard reporting
   works, with links to BAILII's Historic Scottish Law Reports
