@@ -86,13 +86,59 @@ the lineage.
 
 ## Reference work
 
-The most thorough recent published framing of the corpus's
-scholarly significance appears in:
+The most thorough published framing of the corpus's scholarly
+significance appears in:
 
 > Ambuske, Jim, Randall Flaherty, and Loren S. Moulds. "Recovering
 > Hidden Histories of Early America and the British Atlantic World
 > with the Scottish Court of Session Digital Archive Project."
 > *Scottish Archives* 24 (2018), 26–42.
+
+For a worked example of the AI-assisted handwritten-text-recognition
+methodology that informs this project's deferred frontier-HTR work
+(and a recent collaboration of the project lead's outside the SCOS
+corpus):
+
+> Herrington, Philip M., and Loren S. Moulds. "Reading the Register:
+> Using AI-Assisted Handwritten Text Recognition (HTR) to Unlock the
+> Hermitage Plantation Register of Guests." *Journal of Map &
+> Geography Libraries* (2026). DOI:
+> [10.1080/15420353.2026.2614780](https://doi.org/10.1080/15420353.2026.2614780).
+
+## Voices and resources in the field
+
+The methodological landscape that this project sits in has, in the
+last two years, been documented openly and in near-real time by a
+small community of practitioners working at the intersection of
+generative AI and historical / archival research. Where the project's
+own methodology builds on, converges with, or learns from this
+community's published patterns, the following are particularly
+worth following:
+
+- **[Computational History](https://computationalhistory.substack.com/)**
+  — historians publishing close, evaluative writing on how
+  generative AI changes (and does not change) historical research
+  workflows, with attention to source criticism, reproducibility,
+  and disciplinary epistemics.
+- **[Generative History](https://generativehistory.substack.com/)**
+  — practitioner notes on applying generative models to historical
+  sources, including transcription, translation, and entity
+  extraction.
+- **Daniel van Strien's
+  [AI Patterns for GLAM](https://danielvanstrien.xyz/ai-patterns-for-glam/)**
+  — a maintained pattern catalog for galleries-libraries-archives-
+  museums work with AI, including
+  [VLM structured generation](https://danielvanstrien.xyz/ai-patterns-for-glam/patterns/structured-generation/vlm-structured-generation.html),
+  which closely tracks the structured-output discipline this
+  project uses for its
+  [text](/scos-modernization-site/future/text-pipeline/) and
+  [case-binding](/scos-modernization-site/future/case-binding/)
+  pipelines.
+
+The lineage works in both directions: this project draws on the
+patterns documented above, and where its own contributions are
+generalizable to other historical print and manuscript corpora,
+they will be published openly into the same community.
 
 ## Citation
 
