@@ -8,13 +8,13 @@ hero:
     from one of the great underused archives of the long eighteenth century.
   actions:
     - text: The Collection
-      link: /collection/
+      link: /scos-modernization-site/collection/
       icon: open-book
     - text: The Platform Today
-      link: /platform/
+      link: /scos-modernization-site/platform/
       icon: document
     - text: What Comes Next
-      link: /future/
+      link: /scos-modernization-site/future/
       icon: rocket
 ---
 
