@@ -16,7 +16,7 @@ section builds on.
 - [**The 2018 launch**](/scos-modernization-site/platform/origins/) — the origin of the present
   generation of work on the Session Papers at UVA
 - [**Eight years of cataloging**](/scos-modernization-site/platform/cataloging/) — the
-  foundational human work that the modernisation builds on
+  foundational human work that the modernization builds on
 - [**What scos.law does today**](/scos-modernization-site/platform/today/) — current
   capabilities
 

@@ -26,7 +26,7 @@ like:
 
 > *"Find every Petition involving shipping insurance from Maryland
 > between 1780 and 1800 where Hugh Dalrymple appeared as counsel, and
-> summarise their procedural outcomes."*
+> summarize their procedural outcomes."*
 
 the assistant, having been pointed at the SCOS MCP server, can:
 

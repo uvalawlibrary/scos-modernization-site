@@ -4,7 +4,7 @@ description: The human work that underpins everything else.
 ---
 
 The project's single most valuable asset is not a piece of software,
-nor a digitisation programme, nor a particular technological capability.
+nor a digitization program, nor a particular technological capability.
 It is **eight years of expert human cataloging work**, principally
 carried out at the University of Virginia, that has produced the rich,
 structured, deeply contextual metadata which the rest of the platform
@@ -81,7 +81,7 @@ question — what these papers say about Scottish and Atlantic
 eighteenth-century law and life — that has remained intellectually
 compelling for everyone who has spent any meaningful time inside it.
 
-The modernisation work described in the next section is built to
+The modernization work described in the next section is built to
 protect that investment, to make it visible at scales the human work
 alone could never reach, and to do so without ever overwriting what
 the human curators have done.

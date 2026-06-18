@@ -17,7 +17,7 @@ UVA Law holds the **largest collection of Session Papers outside the
 United Kingdom**: **58 linear feet** of materials, encompassing
 approximately **3,200 cases** and roughly **10,000 individual
 bibliographic records**, dating from **1757 to 1834**. The collection
-is housed in Special Collections, organised by box and shelfmark.
+is housed in Special Collections, organized by box and shelfmark.
 
 The collection is known as the **Skene Collection**. Andrew Skene
 (1784–1835) was a Scottish advocate who briefly served as Solicitor
@@ -35,7 +35,7 @@ twentieth century, and were acquired by the UVA Law Library from a
 San Francisco rare book dealer in 1987.
 
 Approximately **38,500 page images** from the UVA collection have been
-digitised. Approximately **2,400 case-document records** are described
+digitized. Approximately **2,400 case-document records** are described
 in the project's current Drupal-based catalog, with around **half of
 those bound to specific cases** through the human cataloging work
 described in the next section.
@@ -46,7 +46,7 @@ Three Edinburgh institutions together hold **approximately 4,500 bound
 volumes** of Session Papers:
 
 - **The University of Edinburgh** holds a substantial share of the
-  Edinburgh corpus, and a pilot digitisation initiative has produced
+  Edinburgh corpus, and a pilot digitization initiative has produced
   approximately **155,000 page images** hosted historically on
   Edinburgh's Luna platform. Edinburgh is currently re-platforming its
   digital collections.
@@ -103,7 +103,7 @@ Across all the holding institutions, the surviving Session Papers
 amount to **approximately 250,000 documents and several million
 pages**, covering nearly every case brought before the Court of Session
 from roughly 1710 to 1850. Most of those pages have never been
-catalogued, never been digitised, and — until very recently — have
+cataloged, never been digitized, and — until very recently — have
 remained inaccessible to search at any meaningful scale.
 
 The figures on this page should be read as **working estimates**, not

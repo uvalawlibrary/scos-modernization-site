@@ -19,7 +19,7 @@ discovery.
 
 The University of Virginia School of Law Library is in formal
 partnership with the **Centre for Research Collections (CRC) at the
-University of Edinburgh Main Library** on the digital modernisation
+University of Edinburgh Main Library** on the digital modernization
 of the Session Papers. The collaboration has been continuous since
 2017 and has produced the Edinburgh-led EDITOR pilot, a shared
 hosting arrangement for digital surrogates, joint conference
@@ -29,7 +29,7 @@ present generation of cross-institutional work.
 The Faculty of Advocates, the Signet Library, and the National
 Records of Scotland are the other principal holding institutions for
 the corpus. Specific named collaborators at the partner institutions
-are recognised in the project's published outputs.
+are recognized in the project's published outputs.
 
 ## Funding and support
 
@@ -48,7 +48,7 @@ The current generation of work is supported through:
   [Future](/scos-modernization-site/future/) section.
 
 Earlier phases of work — including the 2018 launch of scos.law,
-subsequent digitisation, the Edinburgh-led EDITOR pilot, and the
+subsequent digitization, the Edinburgh-led EDITOR pilot, and the
 March 2021 transatlantic workshop — have been supported by a series
 of awards including the William Nelson Cromwell Foundation, the
 Scottish Library and Information Council, the Omohundro Institute of
@@ -80,7 +80,7 @@ computation:
   designed for adoption by other GLAM projects
 
 Each of these projects earned a piece of the scaffolding the
-Session Papers modernisation builds on. The Session Papers project,
+Session Papers modernization builds on. The Session Papers project,
 in turn, intends to contribute methodology and tooling back into
 the lineage.
 
@@ -99,13 +99,13 @@ scholarly significance appears in:
 For the project as a whole:
 
 > Moulds, Loren S. *The Scottish Court of Session Papers
-> Modernisation Project.* University of Virginia School of Law
+> Modernization Project.* University of Virginia School of Law
 > Library, 2026–. https://scos.law.virginia.edu/
 
 For the planned 2027 gold-standard reference dataset:
 
 > Moulds, Loren S., and collaborators. *Scottish Court of Session
-> Session Papers — Curated Catalogue, 2018 Cohort.* University of
+> Session Papers — Curated Catalog, 2018 Cohort.* University of
 > Virginia School of Law Library. DOI forthcoming.
 
 A formal citation file (`CITATION.cff`) will be published alongside

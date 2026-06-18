@@ -11,7 +11,7 @@ Drupal-based digital archive that has grown substantially since its
 
 A scholar arriving at scos.law today can:
 
-- **Browse the catalogued documents** by case, by date, by document
+- **Browse the cataloged documents** by case, by date, by document
   type, by holding institution
 - **Search the metadata** — case titles, parties, counsel, judges —
   for records that have been described
@@ -33,7 +33,7 @@ A scholar arriving at scos.law today can:
 
 The current platform is particularly strong at:
 
-- **Display of richly catalogued material**: for documents that the
+- **Display of richly cataloged material**: for documents that the
   eight years of expert cataloging have reached, scos.law offers a
   level of contextual richness that few digital archives of comparable
   materials approach
@@ -52,7 +52,7 @@ The current platform is particularly strong at:
 ## What it cannot currently do
 
 The honest list of things the platform cannot do today — and what the
-[modernisation programme](/scos-modernization-site/future/) is built to address:
+[modernization program](/scos-modernization-site/future/) is built to address:
 
 - **Full-text search** across the corpus: most pages are not yet OCR'd,
   and the OCR that exists is not yet tuned for eighteenth-century
@@ -65,16 +65,16 @@ The honest list of things the platform cannot do today — and what the
   the case the individual appeared in
 - **Move from one case to a related case** — repeat parties, repeat
   counsel, related litigation — without manual research
-- **Provide a path for catalogue records to live independently of the
+- **Provide a path for catalog records to live independently of the
   Drupal platform** — a long-term preservation concern that the
   [Canonical Data Layer](/scos-modernization-site/future/canonical-data/) addresses
 
 ## A platform in transition
 
 The platform as it stands today is not the platform's final form. It
-is one stage in an extended programme of work — one in which the
+is one stage in an extended program of work — one in which the
 human cataloging investment is the foundation, the current site is the
-public face of that foundation, and the modernisation programme
+public face of that foundation, and the modernization program
 described in the [Future](/scos-modernization-site/future/) section is what extends what
 scos.law can do, and at what scale, while preserving everything the
 expert curators have built.

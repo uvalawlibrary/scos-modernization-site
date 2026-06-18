@@ -59,7 +59,7 @@ These are not legal histories alone. They are histories of:
 > war heroes, authors, merchants and tenant farmers lived."*
 
 Despite the Court's seat in Edinburgh, the cases it heard ran across
-vast distances. As the article puts it, the digitisation work makes it
+vast distances. As the article puts it, the digitization work makes it
 possible to *"reintegrate the spaces of the British Empire — Great
 Britain, North America, the Caribbean, western Africa and India — as
 they would have been understood and experienced in the eighteenth and
@@ -92,7 +92,7 @@ of whether the case made it into the printed reports.
 
 ## What a single case can reveal
 
-The article centres a sustained example: *Duncan v. Maclintock and
+The article centers a sustained example: *Duncan v. Maclintock and
 Smith* (c.1778) — an unreported and seemingly unremarkable dispute
 between Scottish merchants over an unpaid wheat shipment from Virginia.
 Read against its commercial setting, the case opens up:

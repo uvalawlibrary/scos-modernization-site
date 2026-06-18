@@ -38,7 +38,7 @@ remainder.
 **Phase 1 — Match against known cases.** For each document, the
 pipeline looks at the parties, the date, the court venue, and the
 counsel and judges named in the document, and asks: does an existing
-catalogued case match this? If the match is strong enough, the
+cataloged case match this? If the match is strong enough, the
 document gets attached to that case. This is the easy majority of
 the work, particularly for documents whose parties appear by name in
 the existing UVA cataloging.
@@ -49,7 +49,7 @@ match *each other*? Two Memorials filed within a few weeks of each
 other, between the same parties, on the same matter — these are
 almost certainly the same case, even if the case doesn't yet exist
 in the catalog. The pipeline uses party names (with careful
-normalisation for spelling variants like *MacDonald / M'Donald /
+normalization for spelling variants like *MacDonald / M'Donald /
 McDonald*), dates, document types, and — critically — the explicit
 **cross-references inside the documents themselves** (a Memorial
 might refer to "the within Petition" or "the Answers lodged by the
@@ -74,7 +74,7 @@ proposal rather than from nothing.
 **Phase 5 — Re-matching as new content arrives.** The pipeline does
 not run once and stop. Every newly-ingested document, every newly
 confirmed case, every new variant of a party name added to the
-normalisation rules, triggers re-evaluation of the unmatched and
+normalization rules, triggers re-evaluation of the unmatched and
 weakly-bound portions of the corpus. Bindings can form long after
 either end was first ingested — particularly important for the
 cross-institutional content where documents from one institution

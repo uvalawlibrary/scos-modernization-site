@@ -8,7 +8,7 @@ description: Word-level search inside the documents, with results that highlight
 A scholar arriving at scos.law today can search the **catalog
 metadata** — case titles, parties, counsel, judges, archival
 provenance. For the substantial portion of the corpus that has been
-catalogued in detail, this is meaningful and useful search.
+cataloged in detail, this is meaningful and useful search.
 
 What the scholar **cannot** do is search inside the documents
 themselves. Typing a party name like *McGowan* finds the cases where

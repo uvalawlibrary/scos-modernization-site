@@ -35,7 +35,7 @@ Session Papers carry an unusual weight as historical evidence because
 they record:
 
 - **How legal arguments were actually constructed** — not how a reporter
-  summarised them after the fact, but what counsel chose to put in
+  summarized them after the fact, but what counsel chose to put in
   writing to persuade the bench
 - **Who the participants were** — by name, by residence, by profession,
   often by relationship to other parties in other cases

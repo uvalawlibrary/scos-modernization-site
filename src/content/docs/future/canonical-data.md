@@ -25,14 +25,14 @@ corpus's metadata as plain-text files, version-controlled, stored
 independently of any operational platform, and citable in its own
 right as a published scholarly dataset.
 
-Concretely, this means: every case, every catalogued document, every
+Concretely, this means: every case, every cataloged document, every
 named agent (party, counsel, judge, clerk, witness), every named
-place, and every named organisation appears as its own YAML file in
+place, and every named organization appears as its own YAML file in
 a public-ready data repository. Each file carries:
 
 - **A stable identifier** that survives platform migrations
 - **The descriptive metadata** in a format any future reader of the
-  data can parse without specialised software
+  data can parse without specialized software
 - **Provenance per field**: not just "what" but "who set this, when,
   from what source, at what level of confidence"
 - **Relations to other records** by stable identifier — so the
@@ -50,7 +50,7 @@ value in every file is marked with one of five tiers:
 | **Gold** | Human curator, pre-AI era. The 2018 Skene cataloging. |
 | **Human-reviewed** | AI extracted, curator confirmed. |
 | **AI-pending** | AI extracted, awaiting curator review. |
-| **Derived** | Algorithmically computed from other fields (e.g., normalised party name). |
+| **Derived** | Algorithmically computed from other fields (e.g., normalized party name). |
 | **Speculative** | Provisional, uncertain, or experimental — never in citable releases. |
 
 The result is that "publish only the human-curated data without any

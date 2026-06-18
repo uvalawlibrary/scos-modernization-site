@@ -16,9 +16,12 @@ eighteenth-century printed pages. The reasons are concrete:
 - **The long-s (ſ)** — the letterform that looks somewhat like an `f`
   but is pronounced and read as `s` — appears throughout pre-1795
   printing. Standard OCR reads it as `f`, producing "Seſsion"
-  rendered as "Sefsion", and "purſuer" as "purfuer". Across a corpus
-  of hundreds of thousands of pages, this single error
-  is catastrophic for full-text search.
+  rendered as "Sefsion" and "purſuer" as "purfuer". Across a corpus
+  of hundreds of thousands of pages, this single error makes
+  full-text search effectively unusable without intervention — a
+  problem that can be mitigated downstream (smarter indexing rules,
+  fuzzy search, query expansion), but at meaningful effort and
+  ongoing maintenance cost.
 - **Ligatures** — paired letter combinations cast as a single
   character, common in eighteenth-century type — are often misread
   as garbage. The "ct" ligature, the "ﬅ" (long-s + t), the "ﬃ"
@@ -35,9 +38,35 @@ eighteenth-century printed pages. The reasons are concrete:
   but unfamiliar to general-purpose OCR systems trained on
   contemporary text.
 
-The Virginia and Edinburgh teams have been working with these
-particular obstacles, in different combinations, since 2018. The
-current text pipeline is the product of what has been learned.
+Earlier generations of work on the problem demonstrated that the
+obstacles above were not insurmountable. The Edinburgh team's EDITOR
+pilot adapted open-source OCR for Session Papers specifically and
+showed that workable accuracy was achievable. Tools such as
+**Transkribus** — and the broader generation of machine-learning
+methods for training custom text-recognition models on historical
+materials — have made it possible to handle particular printer
+styles, particular date ranges, and particular page conventions
+reasonably well, given sufficient hand-prepared training data and
+careful evaluation.
+
+What that earlier work also demonstrated is that **the approach
+was labor-intensive and did not generalize seamlessly across the
+corpus**. A model trained for one decade's printers behaved
+differently on the next decade's. A model trained for one Edinburgh
+shop did not handle the typography of another's well. Producing
+satisfactory recognition for the whole corpus required either
+training many separate models (and curating the training data for
+each) or accepting uneven quality across the materials.
+
+The pipeline described below is the next-generation response: drawing
+on the **vision-language models** that have only become practical in
+the last two years, which can be prompted to handle long-s,
+ligatures, and era-specific typography with much less per-printer
+preparation, while still being evaluated and corrected against the
+human cataloging where they fall short. The Virginia and Edinburgh
+teams have been working with these obstacles in different
+combinations since 2018; the current pipeline is the product of what
+has been learned across both phases.
 
 ## The approach
 

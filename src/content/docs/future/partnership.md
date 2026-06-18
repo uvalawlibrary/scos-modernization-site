@@ -16,7 +16,7 @@ holding institutions on two continents, with substantial holdings at:
 …and smaller holdings at additional Scottish, UK, and North American
 institutions. The UVA Law Library is in formal partnership with the
 **Centre for Research Collections (CRC) at the University of
-Edinburgh Main Library** on the modernisation of the Session Papers.
+Edinburgh Main Library** on the modernization of the Session Papers.
 That partnership, formalised in 2017, has been the foundation of every
 substantive piece of cross-institutional work in the years since —
 from the Edinburgh-led EDITOR pilot to the March 2021 transatlantic
@@ -50,7 +50,7 @@ The project's posture, going forward, is that:
   that make federation natural)
 - **Other holding institutions are welcomed into the picture** — the
   Faculty of Advocates, the Signet Library, the National Records of
-  Scotland — as their own digital collections programmes evolve
+  Scotland — as their own digital collections programs evolve
 
 ## What federation can look like
 
@@ -108,7 +108,7 @@ print collections** — the original ambition of the joint UVA-Edinburgh
 "Open EDITOR" proposal in 2021. The methodologies, the tooling, the
 canonical-data-layer approach, the AI-assisted search and research
 interface: these are not specific to the Session Papers. They are
-specific to *richly contested, partially-catalogued, cross-
+specific to *richly contested, partially-cataloged, cross-
 institutionally-dispersed historical print corpora*, of which the
 Session Papers are one significant example.
 

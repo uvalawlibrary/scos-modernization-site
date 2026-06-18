@@ -59,7 +59,7 @@ A cross-institutional initiative led by the University of Virginia
 School of Law Library, building on nearly a decade of joint work with
 the University of Edinburgh, to:
 
-- **Modernise** the digital access infrastructure that scholars use to
+- **Modernize** the digital access infrastructure that scholars use to
   find, read, and cite Session Papers
 - **Apply** contemporary AI methods — carefully, with provenance and
   human oversight — to make the printed corpus searchable, the cases
@@ -76,7 +76,7 @@ the University of Edinburgh, to:
 - [**The Collection**](/scos-modernization-site/collection/) — what the Session Papers are, why
   they matter, where they live
 - [**The Platform**](/scos-modernization-site/platform/) — what the project has built since 2018
-- [**What Comes Next**](/scos-modernization-site/future/) — the 2026 modernisation in detail
+- [**What Comes Next**](/scos-modernization-site/future/) — the 2026 modernization in detail
 
 ---
 

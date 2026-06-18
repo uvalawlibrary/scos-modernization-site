@@ -1,9 +1,9 @@
 ---
 title: What Comes Next
-description: The 2026 modernisation programme — what the project is building, and why.
+description: The 2026 modernization program — what the project is building, and why.
 ---
 
-The work described in this section is a coordinated programme of
+The work described in this section is a coordinated program of
 technological and methodological improvements, planned and partly
 underway in 2026, designed to make the Scottish Court of Session Papers
 **searchable at corpus scale, navigable as cases rather than as loose
@@ -11,7 +11,7 @@ documents, durable across platform changes, and accessible to
 contemporary research tools** — including the kind of AI-assisted
 scholarship that has only become practical in the last two years.
 
-Every piece of the programme builds on the
+Every piece of the program builds on the
 [platform as it stands today](/scos-modernization-site/platform/) and on the
 [eight years of expert cataloging](/scos-modernization-site/platform/cataloging/) that the
 present site embodies. **Nothing the curators have done is being
@@ -19,7 +19,7 @@ discarded; everything is being amplified.**
 
 ## Seven threads
 
-The programme has seven interlocking threads, each described in its
+The program has seven interlocking threads, each described in its
 own page below. They are designed to be implemented largely in
 parallel, with clear sequencing where dependencies require it.
 
@@ -51,7 +51,7 @@ parallel, with clear sequencing where dependencies require it.
 
 ## The underlying commitments
 
-Three values shape every technical choice in the programme.
+Three values shape every technical choice in the program.
 
 **The human metadata is the ground truth.** Every algorithmic
 technique is evaluated against the eight years of expert cataloging.
@@ -98,7 +98,7 @@ these models is **deliberate, evaluated, and provenance-tracked**:
   coming through UVA's Mellon-funded partnership with the University
   of North Carolina at Chapel Hill.
 
-The result is a programme designed to use the most capable
+The result is a program designed to use the most capable
 contemporary technology where it earns its place, to be transparent
 about where it does, and to keep the human cataloging investment as
 the anchor.
