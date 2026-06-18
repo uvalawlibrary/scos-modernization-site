@@ -4,6 +4,14 @@ description: The modernization timeline — workstreams, sequence, and current s
 tableOfContents: false
 ---
 
+<style>
+  /* With the right-hand TOC hidden on this page, widen the content
+     column so the swim-lane chart can render without horizontal
+     scrolling on a typical desktop. Scoped via inline style — only
+     present on the roadmap page. */
+  :root { --sl-content-width: 72rem; }
+</style>
+
 This page is the live punch list for the modernization. The chart
 below shows the **sequence and dependencies** of the workstreams
 described elsewhere in this section, grouped into lanes that roughly
