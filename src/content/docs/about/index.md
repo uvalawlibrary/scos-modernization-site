@@ -3,7 +3,7 @@ title: About the Project
 description: Team, funding, partners, citation.
 ---
 
-## Project lead
+## Project leads
 
 **Loren S. Moulds** — Digital Collections Librarian and Head of
 Digital Scholarship & Preservation at the Arthur J. Morris Law
@@ -14,6 +14,14 @@ projects in cultural-heritage computation that Loren has led at UVA,
 which together form a lineage of methodology, tooling, and
 institutional capability in AI-assisted archival description and
 discovery.
+
+**Jim Ambuske** — historian of the early modern British Atlantic
+and longtime collaborator on the Session Papers project. Jim is
+co-author of the 2018 *Scottish Archives* article that frames the
+corpus's scholarly significance, was co-investigator on the 2021
+joint UVA–Edinburgh "Open EDITOR" proposal, and remains a principal
+intellectual partner on the project's research and dissemination
+threads.
 
 ## Partner institutions
 
