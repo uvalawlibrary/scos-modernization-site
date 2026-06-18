@@ -52,7 +52,7 @@ The current platform is particularly strong at:
 ## What it cannot currently do
 
 The honest list of things the platform cannot do today — and what the
-[modernisation programme](/future/) is built to address:
+[modernisation programme](/scos-modernization-site/future/) is built to address:
 
 - **Full-text search** across the corpus: most pages are not yet OCR'd,
   and the OCR that exists is not yet tuned for eighteenth-century
@@ -67,7 +67,7 @@ The honest list of things the platform cannot do today — and what the
   counsel, related litigation — without manual research
 - **Provide a path for catalogue records to live independently of the
   Drupal platform** — a long-term preservation concern that the
-  [Canonical Data Layer](/future/canonical-data/) addresses
+  [Canonical Data Layer](/scos-modernization-site/future/canonical-data/) addresses
 
 ## A platform in transition
 
@@ -75,6 +75,6 @@ The platform as it stands today is not the platform's final form. It
 is one stage in an extended programme of work — one in which the
 human cataloging investment is the foundation, the current site is the
 public face of that foundation, and the modernisation programme
-described in the [Future](/future/) section is what extends what
+described in the [Future](/scos-modernization-site/future/) section is what extends what
 scos.law can do, and at what scale, while preserving everything the
 expert curators have built.

@@ -6,7 +6,7 @@ description: How the present generation of work on the Session Papers at UVA beg
 The current state of the project — the public site at
 **scos.law.virginia.edu**, the years of expert cataloging, the
 cross-institutional collaboration with Edinburgh, and the technological
-landscape described in the [Future](/future/) section — grew out of a
+landscape described in the [Future](/scos-modernization-site/future/) section — grew out of a
 period of foundational work that began in 2016 at both UVA and the
 University of Edinburgh, became formally collaborative in 2017, and
 culminated in the launch of scos.law in 2018.
@@ -101,6 +101,6 @@ A series of grants and fellowships have supported the work since the
   on.
 
 The 2026 modernisation programme described in the
-[Future](/future/) section is the next phase of that continuous
+[Future](/scos-modernization-site/future/) section is the next phase of that continuous
 arc of work — drawing on a decade of methodology, partnership, and
 expert cataloging.

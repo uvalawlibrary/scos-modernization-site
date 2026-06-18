@@ -67,7 +67,7 @@ documents support the claim, and a click takes you to each one."
 The MCP server is backed by two parallel indexes:
 
 - A **keyword index** — the same Solr-based infrastructure that
-  powers the [search thread](/future/search/) — for queries that
+  powers the [search thread](/scos-modernization-site/future/search/) — for queries that
   name specific terms
 - A **semantic search index** built from embeddings of the corpus's
   text, for queries that describe *what kind of document* the

@@ -17,13 +17,19 @@ discovery.
 
 ## Partner institutions
 
-The University of Edinburgh, the Faculty of Advocates, the Signet
-Library, and the National Records of Scotland are the principal
-holding institutions for the corpus alongside UVA, and Edinburgh in
-particular has been a continuous collaborator on the digital
-modernisation of the Session Papers since 2017. Specific named
-collaborators at the partner institutions are recognised in the
-project's published outputs.
+The University of Virginia School of Law Library is in formal
+partnership with the **Centre for Research Collections (CRC) at the
+University of Edinburgh Main Library** on the digital modernisation
+of the Session Papers. The collaboration has been continuous since
+2017 and has produced the Edinburgh-led EDITOR pilot, a shared
+hosting arrangement for digital surrogates, joint conference
+presentations, the March 2021 transatlantic symposium, and the
+present generation of cross-institutional work.
+
+The Faculty of Advocates, the Signet Library, and the National
+Records of Scotland are the other principal holding institutions for
+the corpus. Specific named collaborators at the partner institutions
+are recognised in the project's published outputs.
 
 ## Funding and support
 
@@ -39,7 +45,7 @@ The current generation of work is supported through:
 - **The University of Virginia Research Computing / LawData
   allocation**, which provides the HPC compute resources for the
   open-weight AI components of the pipelines described in the
-  [Future](/future/) section.
+  [Future](/scos-modernization-site/future/) section.
 
 Earlier phases of work — including the 2018 launch of scos.law,
 subsequent digitisation, the Edinburgh-led EDITOR pilot, and the

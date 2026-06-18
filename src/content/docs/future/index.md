@@ -12,8 +12,8 @@ contemporary research tools** — including the kind of AI-assisted
 scholarship that has only become practical in the last two years.
 
 Every piece of the programme builds on the
-[platform as it stands today](/platform/) and on the
-[eight years of expert cataloging](/platform/cataloging/) that the
+[platform as it stands today](/scos-modernization-site/platform/) and on the
+[eight years of expert cataloging](/scos-modernization-site/platform/cataloging/) that the
 present site embodies. **Nothing the curators have done is being
 discarded; everything is being amplified.**
 
@@ -23,28 +23,28 @@ The programme has seven interlocking threads, each described in its
 own page below. They are designed to be implemented largely in
 parallel, with clear sequencing where dependencies require it.
 
-- [**Preservation**](/future/preservation/) — a dark archive that
+- [**Preservation**](/scos-modernization-site/future/preservation/) — a dark archive that
   guarantees the corpus survives, regardless of any specific
   institution's hosting decisions
-- [**Text pipeline**](/future/text-pipeline/) — making every page of
+- [**Text pipeline**](/scos-modernization-site/future/text-pipeline/) — making every page of
   every Session Paper searchable, with eighteenth-century print
   handled carefully and twentieth-century pretences set aside
-- [**Case binding**](/future/case-binding/) — turning the corpus from a
+- [**Case binding**](/scos-modernization-site/future/case-binding/) — turning the corpus from a
   collection of independent procedural papers into a navigable archive
   of litigation, automatically where possible and reliably where
   necessary
-- [**Canonical data layer**](/future/canonical-data/) — a
+- [**Canonical data layer**](/scos-modernization-site/future/canonical-data/) — a
   preservation-grade, citable, platform-agnostic representation of the
   corpus's metadata that survives any change in software vendor or
   hosting arrangement
-- [**Search**](/future/search/) — word-level search inside the
+- [**Search**](/scos-modernization-site/future/search/) — word-level search inside the
   documents, with results that highlight the exact location on the
   page where the hit appears
-- [**Scholarship**](/future/scholarship/) — programmatic and
+- [**Scholarship**](/scos-modernization-site/future/scholarship/) — programmatic and
   AI-assisted research tools that let a scholar interrogate the corpus
   with the latest generation of language models, with every citation
   grounded in an actual document
-- [**Partnership**](/future/partnership/) — the cross-institutional
+- [**Partnership**](/scos-modernization-site/future/partnership/) — the cross-institutional
   future, with the University of Edinburgh and other holding
   institutions, in which the corpus appears as the unified resource it
   always has been

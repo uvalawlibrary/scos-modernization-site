@@ -8,16 +8,16 @@ Drupal-based digital archive that has grown, since 2018, into a
 substantive scholarly resource.
 
 This section describes what that platform does today and how it got
-there. It is also the foundation everything in the [Future](/future/)
+there. It is also the foundation everything in the [Future](/scos-modernization-site/future/)
 section builds on.
 
 ## Three pages
 
-- [**The 2018 launch**](/platform/origins/) — the origin of the present
+- [**The 2018 launch**](/scos-modernization-site/platform/origins/) — the origin of the present
   generation of work on the Session Papers at UVA
-- [**Eight years of cataloging**](/platform/cataloging/) — the
+- [**Eight years of cataloging**](/scos-modernization-site/platform/cataloging/) — the
   foundational human work that the modernisation builds on
-- [**What scos.law does today**](/platform/today/) — current
+- [**What scos.law does today**](/scos-modernization-site/platform/today/) — current
   capabilities
 
 ## The headline
@@ -35,6 +35,6 @@ in Morison's *Dictionary of Decisions* or its successors, the catalog
 records the canonical citation.
 
 That work is the project's most valuable asset and the foundation
-everything else builds on. It is also, as the [Future](/future/)
+everything else builds on. It is also, as the [Future](/scos-modernization-site/future/)
 section explains, the **ground truth** against which every new
 algorithmic technique must be evaluated.

@@ -85,7 +85,7 @@ all of them.
 
 This project's working principle is that **the right unit of scholarly
 attention is the corpus, not any one institution's slice of it**. The
-infrastructure described in the [Future](/future/) section is designed
+infrastructure described in the [Future](/scos-modernization-site/future/) section is designed
 so that:
 
 - The corpus appears as a single navigable archive to a scholar using

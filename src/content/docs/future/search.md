@@ -21,7 +21,7 @@ This thread closes that gap.
 
 ## What it does
 
-After the [text pipeline](/future/text-pipeline/) has produced
+After the [text pipeline](/scos-modernization-site/future/text-pipeline/) has produced
 high-quality OCR for the corpus, the search thread makes that text
 **searchable at the word level, with sub-page precision**.
 
@@ -98,7 +98,7 @@ pipeline is doing serious work to make the OCR good across the
 eighteenth-century typography of the corpus, but no automatic process
 is perfect, and the search results will inherit whatever errors the
 underlying recognition produces. The project's
-[evaluation harness](/future/text-pipeline/) measures this
+[evaluation harness](/scos-modernization-site/future/text-pipeline/) measures this
 explicitly, against the human cataloging, and the OCR will be
 improved iteratively as new models become available.
 

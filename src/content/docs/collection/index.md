@@ -84,11 +84,11 @@ practical impediment to its use.
 The three threads of this project respond directly to the situation
 above:
 
-1. **[Significance](/collection/significance/)** — the article in
+1. **[Significance](/scos-modernization-site/collection/significance/)** — the article in
    *Scottish Archives* that frames the corpus's scholarly value and
    motivates this work
-2. **[Holdings](/collection/holdings/)** — a clear picture of which
+2. **[Holdings](/scos-modernization-site/collection/holdings/)** — a clear picture of which
    institution holds what, and how the cross-institutional whole is
    becoming navigable
-3. **[Timeline](/collection/timeline/)** — the historical period and
+3. **[Timeline](/scos-modernization-site/collection/timeline/)** — the historical period and
    the procedural conventions that shape what the papers record

@@ -9,7 +9,7 @@ It is **eight years of expert human cataloging work**, principally
 carried out at the University of Virginia, that has produced the rich,
 structured, deeply contextual metadata which the rest of the platform
 displays — and which every algorithmic technique in the
-[Future](/future/) section will be evaluated against.
+[Future](/scos-modernization-site/future/) section will be evaluated against.
 
 ## What the cataloging captures
 
@@ -50,7 +50,7 @@ day be replaced by automation:
    generation — must be measured against the human metadata. Where
    the algorithm agrees, the project's confidence grows. Where it
    disagrees, the human metadata wins and the algorithm needs work.
-   This is not a metaphor; it is how the [evaluation harness](/future/text-pipeline/)
+   This is not a metaphor; it is how the [evaluation harness](/scos-modernization-site/future/text-pipeline/)
    is built.
 
 2. **It is the seed for everything that follows.** A machine learning
@@ -62,7 +62,7 @@ day be replaced by automation:
    of expensive human review before reaching usable accuracy.
 
 3. **It is citable in its own right.** As part of the
-   [Canonical Data Layer](/future/canonical-data/) described in the
+   [Canonical Data Layer](/scos-modernization-site/future/canonical-data/) described in the
    future section, the 2018 human cataloging will be explicitly
    flagged as the project's **gold-standard reference data** and made
    available as a published, citable dataset, independent of any

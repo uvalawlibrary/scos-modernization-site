@@ -100,6 +100,6 @@ estates, trusts, or successions where the parties or their successors
 returned repeatedly to litigate adjacent questions. A single litigated
 relationship can produce papers spanning forty or fifty years and four
 generations of advocates. The project's case-binding work
-([Future → Case binding](/future/case-binding/)) is designed with this
+([Future → Case binding](/scos-modernization-site/future/case-binding/)) is designed with this
 in mind: a case is not a single year, and a procedural paper from 1812
 may belong to litigation that began in 1773.

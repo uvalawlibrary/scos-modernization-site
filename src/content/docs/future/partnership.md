@@ -14,9 +14,14 @@ holding institutions on two continents, with substantial holdings at:
 - The National Records of Scotland
 
 …and smaller holdings at additional Scottish, UK, and North American
-institutions. The collaboration between UVA and the University of
-Edinburgh, formalised in 2017, has been the foundation of every
-substantive piece of modernisation work in the years since.
+institutions. The UVA Law Library is in formal partnership with the
+**Centre for Research Collections (CRC) at the University of
+Edinburgh Main Library** on the modernisation of the Session Papers.
+That partnership, formalised in 2017, has been the foundation of every
+substantive piece of cross-institutional work in the years since —
+from the Edinburgh-led EDITOR pilot to the March 2021 transatlantic
+symposium to the present generation of work described elsewhere on
+this site.
 
 ## Where things stand
 
@@ -36,7 +41,7 @@ The project's posture, going forward, is that:
 
 - **UVA takes back full operational responsibility for the UVA-owned
   material** — moving the digital surrogates to infrastructure UVA
-  controls (see [Preservation](/future/preservation/)), and serving
+  controls (see [Preservation](/scos-modernization-site/future/preservation/)), and serving
   them via UVA's image services
 - **Edinburgh's next-generation platform is a partner, not a host** —
   with the question of whether and how to federate scos.law with
@@ -78,7 +83,7 @@ how a researcher might navigate the corpus through means other than
 keyword search and chronological browsing.
 
 That work intersects directly with the
-[scholarship thread](/future/scholarship/) at UVA, which is building
+[scholarship thread](/scos-modernization-site/future/scholarship/) at UVA, which is building
 the AI-assisted research interface and the underlying semantic and
 keyword indexes. There is genuine potential for shared output:
 

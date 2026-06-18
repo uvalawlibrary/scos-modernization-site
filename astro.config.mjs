@@ -24,6 +24,7 @@ export default defineConfig({
           'https://github.com/uvalawlibrary/scos-modernization-site/edit/main/',
       },
       lastUpdated: true,
+      pagefind: false,
       sidebar: [
         {
           label: 'The Collection',

@@ -89,15 +89,15 @@ pipeline patterns that have been proven on prior University projects
 glass-plate collection, the Court of Session manuscript handwriting
 pilot — extend straightforwardly to the SCOS text pipeline.
 
-Output flows into the [search infrastructure](/future/search/) and
-into the [case-binding pipeline](/future/case-binding/), and also
-into the [canonical data layer](/future/canonical-data/) for
+Output flows into the [search infrastructure](/scos-modernization-site/future/search/) and
+into the [case-binding pipeline](/scos-modernization-site/future/case-binding/), and also
+into the [canonical data layer](/scos-modernization-site/future/canonical-data/) for
 preservation independent of any operational platform.
 
 ## What the user sees
 
 The user-facing payoff is the ability described on the
-[search page](/future/search/): typing a word into the search box
+[search page](/scos-modernization-site/future/search/): typing a word into the search box
 on scos.law and seeing it highlighted on the actual page, in the
 viewer, with the exact location on the eighteenth-century printed
 sheet circled.

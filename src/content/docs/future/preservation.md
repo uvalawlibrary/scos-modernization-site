@@ -76,12 +76,12 @@ It buys, in return:
 
 - **Insurance** against any single hosting decision at any single
   institution
-- **A clean canonical input** for the [text pipeline](/future/text-pipeline/)
+- **A clean canonical input** for the [text pipeline](/scos-modernization-site/future/text-pipeline/)
   to work from — no dependency on a remote image server during the
   multi-month processing runs
 - **A complete inventory** of which institutions hold what, derived
   directly from the IIIF metadata, that becomes the foundation for
-  the [partnership thread](/future/partnership/) and the broader
+  the [partnership thread](/scos-modernization-site/future/partnership/) and the broader
   cross-institutional view of the corpus
 
 The harvest itself is currently underway, running gently and politely

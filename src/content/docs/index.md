@@ -73,10 +73,10 @@ the University of Edinburgh, to:
 
 ## Three threads to follow
 
-- [**The Collection**](/collection/) — what the Session Papers are, why
+- [**The Collection**](/scos-modernization-site/collection/) — what the Session Papers are, why
   they matter, where they live
-- [**The Platform**](/platform/) — what the project has built since 2018
-- [**What Comes Next**](/future/) — the 2026 modernisation in detail
+- [**The Platform**](/scos-modernization-site/platform/) — what the project has built since 2018
+- [**What Comes Next**](/scos-modernization-site/future/) — the 2026 modernisation in detail
 
 ---
 
