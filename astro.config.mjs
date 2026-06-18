@@ -51,6 +51,7 @@ export default defineConfig({
           collapsed: false,
           items: [
             { label: 'Overview', slug: 'future' },
+            { label: 'Roadmap', slug: 'future/roadmap' },
             { label: 'Preservation', slug: 'future/preservation' },
             { label: 'Text Pipeline', slug: 'future/text-pipeline' },
             { label: 'Case Binding', slug: 'future/case-binding' },
