@@ -1,6 +1,7 @@
 ---
 title: Roadmap
 description: The modernization timeline — workstreams, sequence, and current status, without firm dates.
+tableOfContents: false
 ---
 
 This page is the live punch list for the modernization. The chart

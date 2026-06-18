@@ -51,7 +51,6 @@ export default defineConfig({
           collapsed: false,
           items: [
             { label: 'Overview', slug: 'future' },
-            { label: 'Roadmap', slug: 'future/roadmap' },
             { label: 'Preservation', slug: 'future/preservation' },
             { label: 'Text Pipeline', slug: 'future/text-pipeline' },
             { label: 'Case Binding', slug: 'future/case-binding' },
@@ -59,6 +58,7 @@ export default defineConfig({
             { label: 'Search', slug: 'future/search' },
             { label: 'Scholarship', slug: 'future/scholarship' },
             { label: 'Partnership', slug: 'future/partnership', badge: { text: 'In development', variant: 'note' } },
+            { label: 'Roadmap', slug: 'future/roadmap' },
           ],
         },
         {
