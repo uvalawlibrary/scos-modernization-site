@@ -57,7 +57,7 @@ export default defineConfig({
             { label: 'Canonical Data Layer', slug: 'future/canonical-data' },
             { label: 'Search', slug: 'future/search' },
             { label: 'Scholarship', slug: 'future/scholarship' },
-            { label: 'Partnership', slug: 'future/partnership' },
+            { label: 'Partnership', slug: 'future/partnership', badge: { text: 'In development', variant: 'note' } },
           ],
         },
         {
